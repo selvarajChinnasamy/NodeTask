@@ -2,15 +2,13 @@
 
 npm install -> to install dependencies 
 
-to run
-
 Exercise 2
 
 We have a file which has 10 million numbers put in randomly ranging from 0 to 99.
 Sort the array and write it to another file without keeping the whole array into memory or reading the whole file at once and putting it in memory.
 
 
-npm run ex2 -> second question
+run -> npm run ex2 
 
 
 Exercise 3
@@ -27,4 +25,4 @@ SprintsController => show action ran 23 times
 SprintsController => index action ran 17 times
 and so on.
 
-npm run ex3 -> third question
+run -> npm run ex3
